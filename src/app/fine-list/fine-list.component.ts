@@ -13,7 +13,7 @@ export class FineListComponent implements OnInit {
   items=['都道府県を入力してください、県とかもちゃんと入れてね。例: 東京都'];
 
   ken_items=[{ name: "北海道", value: "016010"},
-            ,{ name: "青森県", value: "030010"},
+            ,{ name: "青森県", value: "020010"},
             ,{ name: "岩手県", value: "030010"},
             ,{ name: "宮城県", value: "040010"},
             ,{ name: "秋田県", value: "050010"},
